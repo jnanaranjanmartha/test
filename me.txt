@@ -1,1 +1,6 @@
-fine changed
+{{#user}}
+Name: Jnanaranjan Martha
+Skills: HTML, CSS, JS, java
+Email: jnanaranjanmartha@gmail.com
+{{/user}}
+
